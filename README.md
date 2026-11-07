@@ -1,4 +1,4 @@
-# Micro-Frontends and Microservices with GraphQL
+# Community Engagement Platform
 
 A full-stack **Community Engagement Platform** built using a **Microservices** backend architecture and a **Micro-Frontend (MFE)** client architecture powered by **GraphQL**, **Apollo**, **Express**, **MongoDB**, and **React + Vite**.
 
@@ -11,7 +11,7 @@ The platform connects neighborhood residents, local business owners, and communi
 The repository is organized into independent backend microservices (each with its own GraphQL schema, resolvers, and MongoDB database) and a Vite-based React Micro-Frontend:
 
 ```text
-Micro-Frontends-and-Microservices-with-GraphQL/
+community-engagement-platform/
 ├── backend/
 │   ├── auth-service/                # Authentication & User Management Microservice (Port 4001)
 │   │   ├── graphQL/
@@ -167,8 +167,8 @@ Micro-Frontends-and-Microservices-with-GraphQL/
 
 ### 1. Clone the Repository
 ```bash
-gh repo clone Ricardo199/Micro-Frontends-and-Microservices-with-GraphQL
-cd Micro-Frontends-and-Microservices-with-GraphQL
+gh repo clone Ricardo199/community-engagement-platform
+cd community-engagement-platform
 ```
 
 ### 2. Configure Environment Variables
